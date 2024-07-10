@@ -1,0 +1,5 @@
+package com.acorta2.Short.controller;
+
+public class HomeController {
+
+}
